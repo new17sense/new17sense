@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm new17sense</h1>
-<h3 align="center">Building full-stack systems</h3>
+<h3 align="center">👉 Building real-world applications</h3>
 
 ---
 
