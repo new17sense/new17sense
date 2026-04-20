@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm new17sense</h1>
+<h3 align="center">Building full-stack systems</h3>
 
-<!--
-**new17sense/new17sense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- Focused on frontend & backend development  
+- Learning by building real-world projects  
+- Interested in system design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql"/>
+</p>
+
+---
+
+### 📌 Current Projects
+- Chess App  
+
+### 🧠 Planned Projects
+- Chat App  
+- Storage System  
+- E-Commerce Platform  
+- Analytics Dashboard  
+- Developer Tool
